@@ -1,15 +1,15 @@
 src
    |
-    ... assests
+    ... assests //Project media
    |
-    ... components
+    ... components //contains global components
    |
     ... context
    |
-    ... data
+    ... data // contains data like json or static data
    |
     ... hooks
    |
-    ... pages
+    ... pages // specific components
    |
     ... utils
