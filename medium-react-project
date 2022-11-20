@@ -1,0 +1,15 @@
+src
+   |
+    ... assests
+   |
+    ... components
+   |
+    ... context
+   |
+    ... data
+   |
+    ... hooks
+   |
+    ... pages
+   |
+    ... utils
